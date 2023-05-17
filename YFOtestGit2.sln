@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YFOtestGit2", "YFOtestGit2\YFOtestGit2.csproj", "{5E452113-A812-409B-A661-70BB48CC44B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E452113-A812-409B-A661-70BB48CC44B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E452113-A812-409B-A661-70BB48CC44B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E452113-A812-409B-A661-70BB48CC44B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E452113-A812-409B-A661-70BB48CC44B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0021D82D-4087-4EBA-A60D-A307F7D7BAE3}
+	EndGlobalSection
+EndGlobal
